@@ -23,7 +23,6 @@ Dzięki temu, nawet w przypadku bardziej skomplikowanych ataków, użytkownik ma
 
 ### 📌TODO
 
-✅❌
 ✅ Filtracja pakietów Java Minecraft<br>
 ✅ Filtracja Wolumetryczna (ataki powyżej 100Gbps)<br>
 ✅ GeoRouting - kierowanie użytkownika do najbliższego dostępnego serwera w jego okolicy<br>
