@@ -48,7 +48,13 @@ Ograniczanie połączeń przy użyciu PPS Limit polega na monitorowaniu i regula
 Dzięki temu mechanizmowi można precyzyjnie kontrolować obciążenie sieciowe, zapobiegając przeciążeniu serwerów oraz zapewniając stabilne i wydajne działanie aplikacji.<br>
 Recaproxy pozwala na ustawienie określonego limitu pakietów na sekundę, co skutecznie chroni infrastrukturę przed atakami DDoS oraz zapewnia równomierne rozłożenie ruchu sieciowego.<br>
 
-### 📌Wykres - limt nadmiernych połaczeń do serwera [OVH Bypass & OVH AMP & DNS]
+### 📌Limt nadmiernych połaczeń do serwera [OVH Bypass & OVH AMP & DNS
 <p align="center">
   <img src="https://i.imgur.com/BTbMnZn.png" />
+</p>
+
+### 📌Limt nadmiernych połaczeń do serwera [OVH Bypass & OVH AMP & DNS + walidacja pakietów
+
+<p align="center">
+  <img src="https://i.imgur.com/HMsZqE6.png" />
 </p>
