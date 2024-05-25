@@ -38,3 +38,17 @@ Dzięki temu, nawet w przypadku bardziej skomplikowanych ataków, użytkownik ma
 
 ### 📌Działanie
 Projekt jest w trakcie przygotowywania.
+
+# RecaProxy - rate limiting 
+
+### 📌Wprowadzenie
+
+Ograniczanie połączeń przy użyciu PPS Limit polega na monitorowaniu i regulacji liczby pakietów przesyłanych na sekundę do serwera lub aplikacji. <br>
+<br>
+Dzięki temu mechanizmowi można precyzyjnie kontrolować obciążenie sieciowe, zapobiegając przeciążeniu serwerów oraz zapewniając stabilne i wydajne działanie aplikacji.<br>
+Recaproxy pozwala na ustawienie określonego limitu pakietów na sekundę, co skutecznie chroni infrastrukturę przed atakami DDoS oraz zapewnia równomierne rozłożenie ruchu sieciowego.<br>
+
+### 📌Wykres - limt nadmiernych połaczeń do serwera [OVH Bypass & OVH AMP & DNS]
+<p align="center">
+  <img src="https://i.imgur.com/BTbMnZn.png" />
+</p>
