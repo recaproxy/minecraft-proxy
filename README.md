@@ -19,10 +19,7 @@ Dzięki temu, nawet w przypadku bardziej skomplikowanych ataków, użytkownik ma
 
 ✅ Filtracja pakietów Java Minecraft<br>
 ✅ Filtracja Wolumetryczna (ataki powyżej 100Gbps)<br>
-✅ GeoRouting - kierowanie użytkownika do najbliższego dostępnego serwera w jego okolicy<br>
-✅ LoadBalancer - kierowanie ruchu poprzez <br>
-✅ Motd Cache<br>
-✅ Global Scrubbing Location : Germany - Franfurt
+✅ Lokalizacja : Germany - Franfurt
 ✅ Proxy Protocol <br>
 ✅ Anycast Network <br>
 ❌ Weryfikacja Anty-Bot (wkrótce)<br>
