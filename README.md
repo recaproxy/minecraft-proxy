@@ -22,9 +22,9 @@ Dzięki temu, nawet w przypadku bardziej skomplikowanych ataków, użytkownik ma
 ✅ GeoRouting - kierowanie użytkownika do najbliższego dostępnego serwera w jego okolicy<br>
 ✅ LoadBalancer - kierowanie ruchu poprzez <br>
 ✅ Motd Cache<br>
-✅ Multi-POP (DE, PL, UK, FRA, CA - via OVH)<br>
-✅ Proxy Protocol & TCPShield <br>
-✅ Multi-POP Premium
+✅ Global Scrubbing Location : Germany - Franfurt
+✅ Proxy Protocol <br>
+✅ Anycast Network <br>
 ❌ Weryfikacja Anty-Bot (wkrótce)<br>
 ✅ Statystyki ruchu | ataków<br>
 ❌ Panel Konfiguracyjny dla beta-testerów.<br>
